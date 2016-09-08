@@ -1,2 +1,2 @@
 # EventPlanner
-Event PLanning Web Site - plan your events using a collaborative website
+Event Planning Web Site - plan your events using a collaborative website
